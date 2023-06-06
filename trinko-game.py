@@ -547,4 +547,3 @@ def main():
         win, chip, score = board()
         points = drop(num, win, pins(win), chip, score)
         List = leaderboard(points, List)
-
