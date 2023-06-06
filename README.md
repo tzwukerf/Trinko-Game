@@ -8,4 +8,4 @@ FOR CLARITY:
 
 My code is exclusively in trinko-game.py.
 
-The code for graphics and TrinkoTitle.gif, TrinkoTime.gif, and questions.txt are not mine.
+The code for graphics.py and the code in pychache, as well as TrinkoTitle.gif, TrinkoTime.gif, LetsPlay.gif, and questions.txt are not mine.
